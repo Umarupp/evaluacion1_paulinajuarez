@@ -43,3 +43,7 @@ Route::get('PaulinaJuarezFlores', function () {
 Route::get('Holaaamor', function () {
     return view('Holaaamor');
 });
+
+Route::get('Guillermo', function () {
+    return view('Guillermo');
+});
